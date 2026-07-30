@@ -1,21 +1,50 @@
 # 🚀 Software Engineering Academy
 
-Welcome to my Software Engineering Academy repository.
+Welcome to my 28-Day Software Engineering Accelerator.
 
-## Goal
+## 🎯 Goal
 
-Become job-ready by mastering:
+To become job-ready by mastering:
 
 - Python
-- SQL
 - APIs
-- Git & GitHub
 - Linux
+- SQL
+- Git & GitHub
 - Data Structures
 - Algorithms
+- Testing
 - System Design
 
+---
 
-## Author
+## 📅 Progress
 
-Ayanda Koketso Dlamini
+- ✅ Day 1
+- ⬜ Day 2
+- ⬜ Day 3
+...
+- ⬜ Day 28
+
+---
+
+## 📂 Repository Structure
+
+Python/
+Projects/
+APIs/
+Linux/
+SQL/
+Algorithms/
+
+---
+
+## 💻 Daily Workflow
+
+Study → Practice → Build → Commit → Push
+
+---
+
+## 📈 Current Streak
+
+🔥 Day 1 / 28

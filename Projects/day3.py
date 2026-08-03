@@ -78,3 +78,64 @@ if username == "admin" and password == "python123":
 else:
     print("Incorrect username or password.")    
     
+
+
+
+'''
+Mini Project 4: Banking Withdrawal Checker
+
+Requirements:
+
+Ask for:
+
+Account Balance
+Withdrawal Amount
+
+If enough money:
+
+Withdrawal Approved
+
+Else:
+
+Insufficient Funds
+'''
+
+print("=" * 40)
+print("Banking Withdrawal Checker")
+print("=" * 40)
+
+balance = float(input("Please may you enter your account balance: \n"))
+
+withdrawal = float(input("Please may you enter your withdrawal amount: \n"))
+
+if withdrawal <= balance:
+    print("Withdrawal approved.")
+
+else:
+    print("Withdrawal denied. Insufficient funds.")
+    
+
+
+    '''
+    Ask for:
+
+Username
+Password
+Age
+
+Allow access only if:
+
+Username is correct
+Password is correct
+User is 18 or older
+    '''
+
+
+    username = input("Please enter username: \n ")
+    password = input("Please enter password: \n ")
+    age = int(input("Please enter your age: \n "))
+
+    if username == "admin" and password == "python123" and age >= 18:
+        print("Access granted.")
+    else:
+        print("Access denied.") 

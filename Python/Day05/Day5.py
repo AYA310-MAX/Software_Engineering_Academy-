@@ -10,3 +10,11 @@ def introduce():
     print("I am learning Software Engineering")
 
 introduce()
+
+def greet_user(name):
+    print("Hello, ", name )
+    print("Welcome to the Software Engineering Academy!")
+
+greet_user("Ayanda")
+greet_user("Siyabonga")
+greet_user("Thando")
